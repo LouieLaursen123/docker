@@ -1,5 +1,4 @@
-//Showing php information
-
 <?php
+//Showing php information
 phpinfo();
  ?>
